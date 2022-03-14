@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDateCalculator", "ReportDateCalculator\ReportDateCalculator.csproj", "{59D3319F-65B7-449E-9271-C9A928A2796A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDateCalculatorTest", "ReportDateCalculatorTest\ReportDateCalculatorTest.csproj", "{ED3836F5-AF84-4D38-ACBA-FB5BB7187940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D3319F-65B7-449E-9271-C9A928A2796A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D3319F-65B7-449E-9271-C9A928A2796A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D3319F-65B7-449E-9271-C9A928A2796A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D3319F-65B7-449E-9271-C9A928A2796A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3836F5-AF84-4D38-ACBA-FB5BB7187940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3836F5-AF84-4D38-ACBA-FB5BB7187940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3836F5-AF84-4D38-ACBA-FB5BB7187940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3836F5-AF84-4D38-ACBA-FB5BB7187940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D18BDA-CCFA-452C-991A-BA48F4D34D33}
+	EndGlobalSection
+EndGlobal

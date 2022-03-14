@@ -1,0 +1,7 @@
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\bin\Debug\ReportDateCalculator.exe.config
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\bin\Debug\ReportDateCalculator.exe
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\bin\Debug\ReportDateCalculator.pdb
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\obj\Debug\ReportDateCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\obj\Debug\ReportDateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\obj\Debug\ReportDateCalculator.exe
+C:\Users\HP\Downloads\ReportDateCalculator\ReportDateCalculator\ReportDateCalculator\obj\Debug\ReportDateCalculator.pdb
